@@ -1,0 +1,196 @@
+*{
+    margin:0%;
+    padding:0%;
+    border:0%;
+}
+ 
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.017em;
+
+    color: #000000;
+}
+ 
+.voltar {
+   float: left;
+   float: top;
+   width: 30px;
+   padding: 0px;
+   margin-top: 8px;
+}
+ 
+.cabe {
+    margin-top: 0px;
+    background-color: #37D91D;
+    height: 51px;
+    padding: 1px;
+ 
+}
+ 
+.cab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 22%;
+    margin-right: 10%;
+    background-color: #FFFF;
+    border: 3px solid #37D91D;
+ 
+    width: 55%;
+ 
+    border-radius: 20px;
+    height: 45px;
+ 
+}
+ 
+.acougue {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 5%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.aves-frios-laticinios {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.frutos-mar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.adega {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.higiene {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.hortifruti {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.padaria {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.congelados {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+ 
+.doces {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #EBF2E8;
+    height: 45px;
+    width: 65%;
+ 
+    border: 1px solid #37D91D;
+    border-radius: 20px;
+}
+
