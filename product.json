@@ -1,0 +1,118 @@
+{
+"data": {
+"products": [
+{
+"currencyFormat": "R$", <!-- R$--!>
+"currencyId": "BRL", <!-- BRL --!>
+"id": 0, <!--ID --!>
+"price": 10, <!-- preço --!>
+"title": "Nome" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+},
+{
+"currencyFormat": "", <!-- R$--!>
+"currencyId": "", <!-- BRL --!>
+"id": , <!--ID --!>
+"price": , <!-- preço --!>
+"title": "" <!-- NOME DO PRODUTO --!>
+}
+]
+}
+}
