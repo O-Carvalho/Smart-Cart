@@ -2,117 +2,135 @@
 "data": {
 "products": [
 {
-"currencyFormat": "R$", <!-- R$--!>
-"currencyId": "BRL", <!-- BRL --!>
-"id": 0, <!--ID --!>
-"price": 10, <!-- preço --!>
-"title": "Nome" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 0,
+"price": 3.89,
+"title": "Alface Crespa"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 1,
+"price": 11.99,
+"title": "Cenoura tradicional 500g"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 2,
+"price": 6.99,
+"title": "Leite Integral Piracanjuba 1 Litro"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 3,
+"price": 11.79,
+"title": "Achocolatado em pó Toddy Original 370g"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 4,
+"price": 8.99,
+"title": "Leite Condensado Moça Lata 395g"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 5,
+"price": 35.99,
+"title": "Carne Moída 1kg"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 6,
+"price": 26.99,
+"title": "Linguiça Toscana 1kg"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 7,
+"price": 3.29,
+"title": "Sabonete Nivea"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 8,
+"price": 22.99,
+"title": "Shampoo Pantene"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 9,
+"price": 12.35,
+"title": "Creme Dental"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 10,
+"price": 3.49,
+"title": "Água Mineral"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 11,
+"price": 12.19,
+"title": "Coca-Cola 3L"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 12,
+"price": 12.39,
+"title": "Suco Natural 1L"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 13,
+"price": 31.49,
+"title": "Papel Higiênico"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 14,
+"price": 3.39,
+"title": "Detergente 500ml"
 },
 {
-"currencyFormat": "", <!-- R$--!>
-"currencyId": "", <!-- BRL --!>
-"id": , <!--ID --!>
-"price": , <!-- preço --!>
-"title": "" <!-- NOME DO PRODUTO --!>
-}
-]
-}
-}
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 15,
+"price": 9.79,
+"title": "Pão de Forma"
+},
+{
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 16,
+"price": 8.49,
+"title": "Bisnaguinha"
+},
+{
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 17,
+"price": 15.89,
+"title": "Lasanha Bolonhesa"
+},
+{
+"currencyFormat": "R$",
+"currencyId": "BRL",
+"id": 18,
+"price": 25.19,
+"title": "Nuggets de Frango"
+},
